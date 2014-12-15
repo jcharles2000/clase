@@ -1,0 +1,4 @@
+clase
+=====
+
+Clase de prueba
